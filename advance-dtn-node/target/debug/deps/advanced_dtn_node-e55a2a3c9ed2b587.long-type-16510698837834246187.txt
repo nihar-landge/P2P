@@ -1,0 +1,1 @@
+Result<(Vec<u8>, Vec<u8>, Vec<u8>), Box<dyn StdError>>
